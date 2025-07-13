@@ -13,30 +13,3 @@ Technologies Used
 HTML5: For page structure and content.
 CSS3: For styling, layout, and responsiveness.
 JavaScript (ES6+): For dynamic content rendering, cart functionality, and user interactions.
-Getting Started
-To run this project locally:
-
-Clone the repository:
-
-git clone https://github.com/Deepak-132006/Flipkart-Clone.git
-Navigate to the project folder:
-
-cd Flipkart-Clone
-Open index.html in your browser:
-
-You can double-click index.html, or
-Run a local server (optional, for best experience):
-# Using Python 3
-python -m http.server
-# Then visit http://localhost:8000 in your browser
-File Structure
-/index.html – Main entry point.
-/css/ – Contains CSS files for styling.
-/js/ – Contains JavaScript files for functionality.
-/images/ – Product and UI images (if any).
-/products.json – (If used) Stores product data in JSON format.
-Contribution
-Feel free to fork, modify, and submit pull requests! Suggestions and improvements are always welcome.
-
-Disclaimer
-This project is for educational and demonstration purposes only and is not affiliated with Flipkart in any way.
