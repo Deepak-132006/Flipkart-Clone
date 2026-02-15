@@ -37,7 +37,7 @@ It demonstrates the ability to convert modern website designs into clean, functi
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project](#https://deepak-132006.github.io/Flipkart-Clone/)  
+🔗 [View Project](https://deepak-132006.github.io/Flipkart-Clone/)
 
 ---
 
